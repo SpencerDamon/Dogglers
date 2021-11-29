@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nomad'sLanding/AndroidStudioProjects/Dogglers/app/src/main/res/layout/grid_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Nomad'sLanding/AndroidStudioProjects/Dogglers/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.1" />
         <entry key="..\:/Users/Nomad'sLanding/AndroidStudioProjects/android-basics-kotlin-dogglers-app-main/android-basics-kotlin-dogglers-app-main/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.264" />
       </map>
     </option>
