@@ -27,4 +27,4 @@ Tips
 - DO NOT ALTER THE PROVIDED TESTS
 
   
-  ![Start screen](Dogglers_vertical_list_view.png) ![Start screen](Dogglers_horizontal_list_view.png)
+  ![Start screen](Dogglers_button_view.png)
