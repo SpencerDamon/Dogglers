@@ -1,7 +1,7 @@
-Dogglers - Starter Code
+Dogglers - Starter Code - Completed
 ==================================
 
-Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+Starter code for the second independent project for [Google Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
 Introduction
 ------------
@@ -27,4 +27,5 @@ Tips
 - DO NOT ALTER THE PROVIDED TESTS
 
   
-  ![Start screen](Dogglers_button_view.png)
+  ![start screen](Dogglers_button_view.png)  ![vertical list scrolling](Dogglers_scroll_vert_view.png)  ![horizontal list scrolling](Dogglers_scroll_hor_view.png)
+  ![horizontal list](Dogglers_hor_view.png) ![grid view scrolling](Dogglers_grid_view.png)
