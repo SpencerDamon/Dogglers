@@ -7,32 +7,30 @@ Introduction
 ------------
 
 This is the completed and tested starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). 
+This project demonstrates the use of modules, data classes, recycler view, list view, recycler view adapter, Material IO,and day/night themes. Minimal instruction included.
 
 Pre-requisites
 --------------
-
-- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin  
-
+ 
 
 
-Tips
+
+Android Developer Training Project Unit 2 available at:
 ----
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+[Source Project](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
+
 
 Getting Started
 ---------------
-
 1. Download the completed code
-2. Open the project in Android Studio
-3. Compile the app
-4. Open your AVD or install on an android mobile device with developer options on.
-5. Choose a view by clicking on the corresponding button
-6. Scroll around, and have a HAPPY DOGGLER DAY!  
+2. Compile the app
+3. Open your AVD or install on an android mobile device with developer options on, USB debugging on.
+4. Choose a view (Vertical, Horizontal, or Grid) by clicking on the corresponding button.
+5. Scroll around, and have a HAPPY DOGGLER DAY!  
 
 
-Screenshots of Dogglers!
+Screenshots of COMPLETED Dogglers app!
 ---------------  
   ![start screen](Dogglers_button_view.png)  ![vertical list scrolling](Dogglers_scroll_vert_view.png)  ![horizontal list scrolling](Dogglers_scroll_hor_view.png)
   ![horizontal list](Dogglers_hor_view.png) ![grid view scrolling](Dogglers_grid_view.png)
