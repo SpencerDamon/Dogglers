@@ -32,5 +32,4 @@ Getting Started
 
 Screenshots of COMPLETED Dogglers app!
 ---------------  
-  ![start screen](Dogglers_button_view.png)  ![vertical list scrolling](Dogglers_scroll_vert_view.png)  ![horizontal list scrolling](Dogglers_scroll_hor_view.png)
-  ![horizontal list](Dogglers_hor_view.png) ![grid view scrolling](Dogglers_grid_view.png)
+  ![video walkthrough](Dogglers_Video_Walkthrough.gif) ![grid view scrolling](Dogglers_grid_view.png)
