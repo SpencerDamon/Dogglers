@@ -32,4 +32,5 @@ Getting Started
 
 Screenshots of COMPLETED Dogglers app!
 ---------------  
-  ![video walkthrough](Dogglers_Video_Walkthrough.gif) ![grid view scrolling](Dogglers_grid_view.png)
+  ![video walkthrough](Dogglers_Video_Walkthrough.gif)   
+  gif by [Gif_Maker](https://play.google.com/store/apps/details?id=com.gif.gifmaker)
